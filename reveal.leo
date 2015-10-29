@@ -36,8 +36,13 @@
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t=".20151029140606.1"><vh>@edit 2015cphww3.md</vh></v>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t=".20151029135701.1"><vh>@edit 2015cphww2.md</vh></v>
+<v t=".20151029142901.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t=".20151029142905.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t=".20151029142908.1"><vh>@edit 2015cphww6.md</vh></v>
+<v t=".20151029142909.1"><vh>@edit 2015cphww7.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -65,7 +70,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915155634.1" a="E"><vh>@clean cadpaw1.html</vh>
+<v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
 <v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915155634.3" a="E"><vh>head</vh>
 <v t="amd.20150915155634.4"><vh>title - 標題</vh></v>
@@ -265,7 +270,7 @@
 </v>
 </v>
 </v>
-<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
@@ -298,18 +303,95 @@
 </v>
 </v>
 </v>
-<v t=".20151029135813.1"><vh>@clean simplest1.html</vh>
+<v t=".20151029135813.1" a="E"><vh>@clean simplest1.html</vh>
 <v t=".20151029135813.2"><vh>檔案說明</vh></v>
 <v t=".20151029135813.3" a="E"><vh>html 標註</vh>
 <v t=".20151029135813.4" a="E"><vh>body 標註</vh>
 <v t=".20151029135813.5" a="E"><vh>div class="reveal"</vh>
 <v t=".20151029135813.6" a="E"><vh>div class="slides"</vh>
 <v t=".20151029135813.7"><vh>有關我的作業</vh></v>
-<v t=".20151029135813.8"><vh>作業任務一</vh></v>
+<v t=".20151029135813.8"><vh>筆記</vh></v>
+<v t=".20151029150942.1"><vh></vh></v>
 <v t=".20151029135813.9"><vh>第3張投影片</vh></v>
+<v t=".20151029152056.1"><vh>第3張投影片</vh></v>
 </v>
 </v>
 <v t=".20151029135813.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t=".20151029141249.1"><vh>@clean simplest2.html</vh>
+<v t=".20151029141249.2"><vh>檔案說明</vh></v>
+<v t=".20151029141249.3" a="E"><vh>html 標註</vh>
+<v t=".20151029141249.4" a="E"><vh>body 標註</vh>
+<v t=".20151029141249.5" a="E"><vh>div class="reveal"</vh>
+<v t=".20151029141249.6" a="E"><vh>div class="slides"</vh>
+<v t=".20151029141249.7"><vh>有關我的作業</vh></v>
+<v t=".20151029141249.8"><vh>作業任務一</vh></v>
+<v t=".20151029141249.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t=".20151029141249.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t=".20151029143607.1"><vh>@clean simplest3.html</vh>
+<v t=".20151029143607.2"><vh>檔案說明</vh></v>
+<v t=".20151029143607.3" a="E"><vh>html 標註</vh>
+<v t=".20151029143607.4" a="E"><vh>body 標註</vh>
+<v t=".20151029143607.5" a="E"><vh>div class="reveal"</vh>
+<v t=".20151029143607.6" a="E"><vh>div class="slides"</vh>
+<v t=".20151029143607.7"><vh>有關我的作業</vh></v>
+<v t=".20151029143607.8"><vh>作業任務一</vh></v>
+<v t=".20151029143607.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t=".20151029143607.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t=".20151029143615.1"><vh>@clean simplest4.html</vh>
+<v t=".20151029143615.2"><vh>檔案說明</vh></v>
+<v t=".20151029143615.3" a="E"><vh>html 標註</vh>
+<v t=".20151029143615.4" a="E"><vh>body 標註</vh>
+<v t=".20151029143615.5" a="E"><vh>div class="reveal"</vh>
+<v t=".20151029143615.6" a="E"><vh>div class="slides"</vh>
+<v t=".20151029143615.7"><vh>有關我的作業</vh></v>
+<v t=".20151029143615.8"><vh>作業任務一</vh></v>
+<v t=".20151029143615.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t=".20151029143615.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t=".20151029143617.1"><vh>@clean simplest5.html</vh>
+<v t=".20151029143617.2"><vh>檔案說明</vh></v>
+<v t=".20151029143617.3" a="E"><vh>html 標註</vh>
+<v t=".20151029143617.4" a="E"><vh>body 標註</vh>
+<v t=".20151029143617.5" a="E"><vh>div class="reveal"</vh>
+<v t=".20151029143617.6" a="E"><vh>div class="slides"</vh>
+<v t=".20151029143617.7"><vh>有關我的作業</vh></v>
+<v t=".20151029143617.8"><vh>作業任務一</vh></v>
+<v t=".20151029143617.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t=".20151029143617.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t=".20151029143618.1"><vh>@clean simplest6.html</vh>
+<v t=".20151029143618.2"><vh>檔案說明</vh></v>
+<v t=".20151029143618.3" a="E"><vh>html 標註</vh>
+<v t=".20151029143618.4" a="E"><vh>body 標註</vh>
+<v t=".20151029143618.5" a="E"><vh>div class="reveal"</vh>
+<v t=".20151029143618.6" a="E"><vh>div class="slides"</vh>
+<v t=".20151029143618.7"><vh>有關我的作業</vh></v>
+<v t=".20151029143618.8"><vh>作業任務一</vh></v>
+<v t=".20151029143618.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t=".20151029143618.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -505,7 +587,7 @@
 </v>
 </v>
 </v>
-<v t=".20151029134035.1" a="E"><vh>Recovered Nodes</vh>
+<v t=".20151029134035.1"><vh>Recovered Nodes</vh>
 <v t=".20151029134035.2"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
 <v t=".20151029134035.3"><vh>old:html 標註</vh></v>
 <v t=".20151029134035.4"><vh>new:html 標註</vh></v>
@@ -618,21 +700,406 @@ Diff...
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;名字&lt;/h2&gt;
-    &lt;p&gt;馮俊翰&lt;/p&gt;		
+    &lt;p&gt;四設計二甲 40323146 馮俊翰&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx=".20151029135813.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;筆記&lt;/h1&gt;
+    &lt;p&gt;1.git clone 網址(Github個人帳號網址)&lt;/p&gt;
+    &lt;p&gt;2.cd資料夾名稱(cd-進入資料夾)&lt;/p&gt;
+    &lt;p&gt;3.git config user.name"4032316"&lt;/p&gt;
+    &lt;p&gt;git config user.name 40323146@gm.nfu.edu.tw&lt;/p&gt;
+    &lt;p&gt;有--global表示之後都默認&lt;/p&gt;
+    &lt;p&gt;4. git add 檔名 (檔案在近端展開)&lt;/p&gt;
+    &lt;p&gt;5. git commit -m "檔案註解"&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx=".20151029135813.9">&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;再上傳方面，會有許多錯，還需多加熟練。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx=".20151029141249.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx=".20151029141249.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx=".20151029141249.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx=".20151029141249.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx=".20151029141249.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx=".20151029141249.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx=".20151029141249.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx=".20151029141249.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;名字&lt;/h2&gt;
+    &lt;p&gt;馮俊翰&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx=".20151029141249.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;作業任務一&lt;/h1&gt;
     &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx=".20151029135813.9">&lt;section&gt;
+<t tx=".20151029141249.9">&lt;section&gt;
     &lt;h1&gt;第3張投影片&lt;/h1&gt;
     &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx=".20151029143607.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx=".20151029143607.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx=".20151029143607.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx=".20151029143607.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx=".20151029143607.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx=".20151029143607.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx=".20151029143607.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx=".20151029143607.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;名字&lt;/h2&gt;
+    &lt;p&gt;馮俊翰&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx=".20151029143607.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx=".20151029143607.9">&lt;section&gt;
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx=".20151029143615.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx=".20151029143615.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx=".20151029143615.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx=".20151029143615.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx=".20151029143615.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx=".20151029143615.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx=".20151029143615.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx=".20151029143615.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;名字&lt;/h2&gt;
+    &lt;p&gt;馮俊翰&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx=".20151029143615.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx=".20151029143615.9">&lt;section&gt;
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx=".20151029143617.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx=".20151029143617.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx=".20151029143617.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx=".20151029143617.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx=".20151029143617.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx=".20151029143617.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx=".20151029143617.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx=".20151029143617.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;名字&lt;/h2&gt;
+    &lt;p&gt;馮俊翰&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx=".20151029143617.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx=".20151029143617.9">&lt;section&gt;
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx=".20151029143618.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx=".20151029143618.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx=".20151029143618.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx=".20151029143618.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx=".20151029143618.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx=".20151029143618.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx=".20151029143618.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx=".20151029143618.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;名字&lt;/h2&gt;
+    &lt;p&gt;馮俊翰&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx=".20151029143618.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx=".20151029143618.9">&lt;section&gt;
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx=".20151029150942.1">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;筆記&lt;/h1&gt;
+    &lt;p&gt;6. git remote -v ( V - View )&lt;/p&gt;
+    &lt;p&gt;7. git push origin 分支名稱 (有分支的話 --&gt; 需指定分支) , 之後輸入帳號密碼&lt;/p&gt;
+    &lt;p&gt;8. git branch 查看分支&lt;/p&gt;
+    &lt;p&gt;9. git branch gh-pages ( 建立分支 , 名稱為 gh-pages )&lt;/p&gt;
+    &lt;p&gt;10. git checkout gh-pages ( 切換分支 )&lt;/p&gt;
+    &lt;p&gt;11. git add -A ( 將所有檔案展開 : A = All )&lt;/p&gt;
+&lt;/section&gt;
+
+
+				
+</t>
+<t tx=".20151029152056.1">&lt;section&gt;
+    &lt;h1&gt;自評分數&lt;/h1&gt;
+    &lt;p&gt;75&lt;/p&gt;
+    
 &lt;/section&gt;
 				
 </t>
