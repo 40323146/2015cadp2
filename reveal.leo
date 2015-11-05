@@ -43,6 +43,7 @@
 <v t=".20151029142905.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t=".20151029142908.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t=".20151029142909.1"><vh>@edit 2015cphww7.md</vh></v>
+<v t="leo.20151105203537.1"><vh>@edit 2015cphww8.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -297,13 +298,15 @@
 <v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
 <v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
 <v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
+<v t="leo.20151105203033.1"><vh>第4張投影片</vh></v>
+<v t="leo.20151105203117.1"><vh>心得和自評</vh></v>
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t=".20151029135813.1" a="E"><vh>@clean simplest1.html</vh>
+<v t=".20151029135813.1"><vh>@clean simplest1.html</vh>
 <v t=".20151029135813.2"><vh>檔案說明</vh></v>
 <v t=".20151029135813.3" a="E"><vh>html 標註</vh>
 <v t=".20151029135813.4" a="E"><vh>body 標註</vh>
@@ -311,9 +314,7 @@
 <v t=".20151029135813.6" a="E"><vh>div class="slides"</vh>
 <v t=".20151029135813.7"><vh>有關我的作業</vh></v>
 <v t=".20151029135813.8"><vh>筆記</vh></v>
-<v t=".20151029150942.1"><vh></vh></v>
-<v t=".20151029135813.9"><vh>第3張投影片</vh></v>
-<v t=".20151029152056.1"><vh>第3張投影片</vh></v>
+<v t=".20151029150942.1"><vh>心得和自評</vh></v>
 </v>
 </v>
 <v t=".20151029135813.10"><vh>script</vh></v>
@@ -328,7 +329,7 @@
 <v t=".20151029141249.6" a="E"><vh>div class="slides"</vh>
 <v t=".20151029141249.7"><vh>有關我的作業</vh></v>
 <v t=".20151029141249.8"><vh>作業任務一</vh></v>
-<v t=".20151029141249.9"><vh>第3張投影片</vh></v>
+<v t=".20151029141249.9"><vh>心得和自評</vh></v>
 </v>
 </v>
 <v t=".20151029141249.10"><vh>script</vh></v>
@@ -343,7 +344,7 @@
 <v t=".20151029143607.6" a="E"><vh>div class="slides"</vh>
 <v t=".20151029143607.7"><vh>有關我的作業</vh></v>
 <v t=".20151029143607.8"><vh>作業任務一</vh></v>
-<v t=".20151029143607.9"><vh>第3張投影片</vh></v>
+<v t=".20151029143607.9"><vh>心得和自評</vh></v>
 </v>
 </v>
 <v t=".20151029143607.10"><vh>script</vh></v>
@@ -358,25 +359,25 @@
 <v t=".20151029143615.6" a="E"><vh>div class="slides"</vh>
 <v t=".20151029143615.7"><vh>有關我的作業</vh></v>
 <v t=".20151029143615.8"><vh>作業任務一</vh></v>
-<v t=".20151029143615.9"><vh>第3張投影片</vh></v>
+<v t=".20151029143615.9"><vh>心得和自評</vh></v>
 </v>
 </v>
 <v t=".20151029143615.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t=".20151029143617.1"><vh>@clean simplest5.html</vh>
-<v t=".20151029143617.2"><vh>檔案說明</vh></v>
-<v t=".20151029143617.3" a="E"><vh>html 標註</vh>
-<v t=".20151029143617.4" a="E"><vh>body 標註</vh>
-<v t=".20151029143617.5" a="E"><vh>div class="reveal"</vh>
-<v t=".20151029143617.6" a="E"><vh>div class="slides"</vh>
-<v t=".20151029143617.7"><vh>有關我的作業</vh></v>
-<v t=".20151029143617.8"><vh>作業任務一</vh></v>
-<v t=".20151029143617.9"><vh>第3張投影片</vh></v>
+<v t="leo.20151105221720.1"><vh>@clean simplest5.html</vh>
+<v t="leo.20151105221720.2"><vh>檔案說明</vh></v>
+<v t="leo.20151105221720.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151105221720.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151105221720.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151105221720.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151105221720.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151105221720.8"><vh>作業任務一</vh></v>
+<v t="leo.20151105221720.9"><vh>心得和自評</vh></v>
 </v>
 </v>
-<v t=".20151029143617.10"><vh>script</vh></v>
+<v t="leo.20151105221720.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -388,10 +389,25 @@
 <v t=".20151029143618.6" a="E"><vh>div class="slides"</vh>
 <v t=".20151029143618.7"><vh>有關我的作業</vh></v>
 <v t=".20151029143618.8"><vh>作業任務一</vh></v>
-<v t=".20151029143618.9"><vh>第3張投影片</vh></v>
+<v t=".20151029143618.9"><vh>心得和自評</vh></v>
 </v>
 </v>
 <v t=".20151029143618.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151105203453.1"><vh>@clean simplest7.html</vh>
+<v t="leo.20151105203453.2"><vh>檔案說明</vh></v>
+<v t="leo.20151105203453.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151105203453.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151105203453.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151105203453.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151105203453.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151105203453.8"><vh>作業任務一</vh></v>
+<v t="leo.20151105203453.9"><vh>心得和自評</vh></v>
+</v>
+</v>
+<v t="leo.20151105203453.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -699,29 +715,18 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;名字&lt;/h2&gt;
-    &lt;p&gt;四設計二甲 40323146 馮俊翰&lt;/p&gt;		
+    &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
+    &lt;p&gt;班級:四設計二甲&lt;p&gt;
+    &lt;p&gt;姓名:馮俊翰&lt;p&gt;
+    &lt;p&gt;學號:40323146&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
-<t tx=".20151029135813.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;筆記&lt;/h1&gt;
-    &lt;p&gt;1.git clone 網址(Github個人帳號網址)&lt;/p&gt;
-    &lt;p&gt;2.cd資料夾名稱(cd-進入資料夾)&lt;/p&gt;
-    &lt;p&gt;3.git config user.name"4032316"&lt;/p&gt;
-    &lt;p&gt;git config user.name 40323146@gm.nfu.edu.tw&lt;/p&gt;
-    &lt;p&gt;有--global表示之後都默認&lt;/p&gt;
-    &lt;p&gt;4. git add 檔名 (檔案在近端展開)&lt;/p&gt;
-    &lt;p&gt;5. git commit -m "檔案註解"&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx=".20151029135813.9">&lt;section&gt;
-    &lt;h1&gt;心得&lt;/h1&gt;
-    &lt;p&gt;再上傳方面，會有許多錯，還需多加熟練。&lt;/p&gt;
-    
-&lt;/section&gt;
-				
+<t tx=".20151029135813.8">&lt;section&gt;
+    &lt;h1&gt;第二週上課內容&lt;/h1&gt;
+    &lt;p&gt;1.電腦輔助設計與協同產品設計專業練習
+    2.修正 notebook.py，之後才能順利把檔案push&lt;/p&gt;
+&lt;/section&gt;		
 </t>
 <t tx=".20151029141249.1">@language xml
 @tabwidth -4
@@ -776,24 +781,25 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;名字&lt;/h2&gt;
-    &lt;p&gt;馮俊翰&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx=".20151029141249.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
+    &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
+    &lt;p&gt;班級:四設計二甲&lt;p&gt;
+    &lt;p&gt;姓名:馮俊翰&lt;p&gt;
+    &lt;p&gt;學號:40323146&lt;/p&gt;	
+&lt;/section&gt;</t>
+<t tx=".20151029141249.8">&lt;section&gt;
+    &lt;h1&gt;第三週上課內容&lt;/h1&gt;
+    &lt;p&gt;
+    1.reveal.與 js pelican 網誌投影片製作, 把內容送到 Github pages &lt;/p&gt;
+&lt;/p&gt;2.&lt;ahref="http://www.sciencedirect.com/science/article/pii/B9780815514473500029"&gt;&lt;/a&gt; 摘要&lt;/p&gt;
+&lt;/p&gt;3.Solvespace 操作: &lt;ahref="http://solvespace.com/tutorial.pl"&gt;&lt;/a&gt; (簡介)&lt;/p&gt;
+&lt;p&gt;4.先將隨身leo 網址:&lt;ahref="http://140.130.17.17/public/fix.zip"&gt;&lt;/a&gt;安裝在近端並解完壓縮，再把fix.bat打開，這樣就可以了。&lt;p&gt;
+&lt;/section&gt;		
 </t>
 <t tx=".20151029141249.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;
-				
+    &lt;h1&gt;心得和自評&lt;/h1&gt;
+    &lt;p&gt;心得:Solvespace在操作時，整個面板都是英文都看不懂，在操作上會有很多問題。知道了leo在近端得安裝方法，就不需要上一次克就坐那些複雜的事。&lt;/p&gt;
+        &lt;p&gt;自評:80分&lt;/p&gt;
+&lt;/section&gt;	
 </t>
 <t tx=".20151029143607.1">@language xml
 @tabwidth -4
@@ -848,24 +854,22 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;名字&lt;/h2&gt;
-    &lt;p&gt;馮俊翰&lt;/p&gt;		
+    &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
+    &lt;p&gt;班級:四設計二甲&lt;p&gt;
+    &lt;p&gt;姓名:馮俊翰&lt;p&gt;
+    &lt;p&gt;學號:40323146&lt;/p&gt;	
 &lt;/section&gt;
-	
 </t>
-<t tx=".20151029143607.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
+<t tx=".20151029143607.8">&lt;section&gt;
+    &lt;h1&gt;第四週上課內容&lt;/h1&gt;
+    &lt;p&gt;1.Creo Parametric 基本操作: &lt;ahref="https://copy.com/97ZkQ0UqfVUPTxn8"&gt;&lt;/a&gt;&lt;p&gt;
+    &lt;p&gt;2.Solvespace的繪圖&lt;p&gt;
+   &lt;/section&gt;</t>
 <t tx=".20151029143607.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;
-				
+    &lt;h1&gt;心得和自評&lt;/h1&gt;
+    &lt;p&gt;心得:一開始老師教全班如何操作Solvespace，同時也說要開始準備專題報告，畫出一些東西來，覺得很有成就感。&lt;/p&gt;
+        &lt;p&gt;自評:75分&lt;/p&gt;
+&lt;/section&gt;	
 </t>
 <t tx=".20151029143615.1">@language xml
 @tabwidth -4
@@ -920,95 +924,22 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;名字&lt;/h2&gt;
-    &lt;p&gt;馮俊翰&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx=".20151029143615.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
+    &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
+    &lt;p&gt;班級:四設計二甲&lt;p&gt;
+    &lt;p&gt;姓名:馮俊翰&lt;p&gt;
+    &lt;p&gt;學號:40323146&lt;/p&gt;	
+&lt;/section&gt;</t>
+<t tx=".20151029143615.8">&lt;section&gt;
+    &lt;h1&gt;第五週上課內容&lt;/h1&gt;
+    &lt;p&gt;1.Pro/Engineer Mechanism:&lt;ahref="https://copy.com/DXQiGkDoe9K8Cz7m (Nutcracker Mechanism)"&gt;&lt;/a&gt;&lt;p&gt;
+    &lt;p&gt;reveal 2.0 更新&lt;p&gt;
+   &lt;/section&gt;</t>
 <t tx=".20151029143615.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;心得和自評&lt;/h1&gt;
+    &lt;p&gt;心得:reveal 2.0 更新之後差別在於旁邊有多一排連結，在上課前，都要先git clone一次覺得頗麻煩的,，但剛好是下午第一節課可以先來用，順便上星期沒用好的東西。&lt;/p&gt;
+    &lt;p&gt;自評:75分&lt;/p&gt;
 &lt;/section&gt;
-				
-</t>
-<t tx=".20151029143617.1">@language xml
-@tabwidth -4
-@others
 
-</t>
-<t tx=".20151029143617.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx=".20151029143617.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx=".20151029143617.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx=".20151029143617.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx=".20151029143617.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx=".20151029143617.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx=".20151029143617.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;名字&lt;/h2&gt;
-    &lt;p&gt;馮俊翰&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx=".20151029143617.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx=".20151029143617.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;
 				
 </t>
 <t tx=".20151029143618.1">@language xml
@@ -1064,43 +995,27 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;名字&lt;/h2&gt;
-    &lt;p&gt;馮俊翰&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx=".20151029143618.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
+    &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
+    &lt;p&gt;班級:四設計二甲&lt;p&gt;
+    &lt;p&gt;姓名:馮俊翰&lt;p&gt;
+    &lt;p&gt;學號:40323146&lt;/p&gt;	
+&lt;/section&gt;</t>
+<t tx=".20151029143618.8">&lt;section&gt;
+    &lt;h1&gt;第七週上課內容&lt;/h1&gt;
+    &lt;p&gt;建置班級協統倉儲的網誌&lt;p&gt;
+    &lt;p&gt;&lt;p&gt;
+   
+&lt;/section&gt;</t>
 <t tx=".20151029143618.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx=".20151029150942.1">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;筆記&lt;/h1&gt;
-    &lt;p&gt;6. git remote -v ( V - View )&lt;/p&gt;
-    &lt;p&gt;7. git push origin 分支名稱 (有分支的話 --&gt; 需指定分支) , 之後輸入帳號密碼&lt;/p&gt;
-    &lt;p&gt;8. git branch 查看分支&lt;/p&gt;
-    &lt;p&gt;9. git branch gh-pages ( 建立分支 , 名稱為 gh-pages )&lt;/p&gt;
-    &lt;p&gt;10. git checkout gh-pages ( 切換分支 )&lt;/p&gt;
-    &lt;p&gt;11. git add -A ( 將所有檔案展開 : A = All )&lt;/p&gt;
+    &lt;h1&gt;心得和自評&lt;/h1&gt;
+    &lt;p&gt;心得:因為組員的幫忙，讓我很順利的完成建置的動作，但因為上傳的衝突，沒有上傳到，導致東西只能下次一起弄。&lt;/p&gt;
+    &lt;p&gt;自評:75分&lt;/p&gt;</t>
+<t tx=".20151029150942.1">&lt;section&gt;
+    &lt;h1&gt;心得和自評&lt;/h1&gt;
+    &lt;p&gt;心得:一開始都是組別互相幫忙，能順順的用東西，有時候網頁還是出現404，會非常懊惱，但多練習幾次就順利完成了。&lt;/p&gt;
+      &lt;p&gt;自評: 70分  &lt;/a&gt;
 &lt;/section&gt;
 
-
-				
-</t>
-<t tx=".20151029152056.1">&lt;section&gt;
-    &lt;h1&gt;自評分數&lt;/h1&gt;
-    &lt;p&gt;75&lt;/p&gt;
-    
-&lt;/section&gt;
 				
 </t>
 <t tx="amd.20150913232631.1"></t>
@@ -2598,11 +2513,13 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;
-				
+    &lt;h1&gt;建立github倉儲順序&lt;/h1&gt;
+       &lt;p&gt;1. 利用github建立投影片&lt;/p&gt;
+    &lt;p&gt;2. git clone github倉儲網址 -把倉儲內容複製下來&lt;/p&gt;
+    &lt;p&gt;3. cd 資料夾名 -進入資料夾&lt;/p&gt;
+    &lt;p&gt;4. git branch gh-pages -建立分支&lt;/p&gt;
+    &lt;p&gt;5. git checkout gh-pages -換分支&lt;/p&gt;
+    &lt;/section&gt;		
 </t>
 <t tx="amd.20150915211351.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
@@ -2631,17 +2548,19 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;名字&lt;/h2&gt;
-    &lt;p&gt;馮俊翰&lt;/p&gt;		
+    &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
+    &lt;p&gt;班級:四設計二甲&lt;p&gt;
+    &lt;p&gt;姓名:馮俊翰&lt;p&gt;
+    &lt;p&gt;學號:40323146&lt;/p&gt;		
 &lt;/section&gt;
-	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
+    &lt;h1&gt;第一週上課內容&lt;/h1&gt;
+    &lt;p&gt;1.上課務必帶筆記本、耳機、隨身硬碟&lt;p&gt;
+    &lt;p&gt;2.學生自行分組完成功課&lt;p&gt;
+    &lt;p&gt;3.教 git 指令&lt;p&gt;
+   &lt;p&gt; 4.建立github倉儲&lt;/p&gt;
+&lt;/section&gt;			
 </t>
 <t tx="amd.20150917085040.1">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
@@ -2840,5 +2759,161 @@ g.es("pelican 執行完畢")</t>
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20151105203033.1">    &lt;section&gt;
+    &lt;p&gt;6. 到老師的github上把reveal倉儲複製下來&lt;/p&gt;
+    &lt;p&gt;7. 再把複製下來的內容丟到自己git clone 下來的資料夾(除了README.md 和.git)&lt;/p&gt;
+    &lt;p&gt;8. git add-A 更改內容&lt;/p&gt;
+    &lt;p&gt;9. git commit -m"40323146(學號)"&lt;/p&gt;
+    &lt;p&gt;10. git config --global user.name 確認帳號&lt;/p&gt;
+    &lt;p&gt;11. git config --global user.email 確認密碼&lt;/p&gt;
+    &lt;p&gt;12. git push original gh-pages 推到原本網站&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20151105203117.1">&lt;section&gt;
+    &lt;h1&gt;心得和自評&lt;/h1&gt;
+    &lt;p&gt;心得:一開始對於git得指令並不熟悉，所以在其使用上有者非常大的問題，像是指令多打或者是少打，再上傳方面，會有許多錯，還需多加熟練。&lt;/p&gt;
+    &lt;p&gt;自評: 75分  &lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20151105203453.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151105203453.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151105203453.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151105203453.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151105203453.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151105203453.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151105203453.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151105203453.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
+    &lt;p&gt;班級:四設計二甲&lt;p&gt;
+    &lt;p&gt;姓名:馮俊翰&lt;p&gt;
+    &lt;p&gt;學號:40323146&lt;/p&gt;	
+&lt;/section&gt;</t>
+<t tx="leo.20151105203453.8">&lt;section&gt;
+    &lt;h1&gt;第八週上課內容&lt;/h1&gt;
+    &lt;p&gt;建置班級協統倉儲的網誌&lt;p&gt;
+    &lt;p&gt;&lt;p&gt;
+   
+&lt;/section&gt;</t>
+<t tx="leo.20151105203453.9">&lt;section&gt;
+    &lt;h1&gt;心得和自評&lt;/h1&gt;
+    &lt;p&gt;心得:今天也是一如往常的早來，趕快來修改上次未用到的東西，改著改著，又有人說傳不上去了，這節課就一直修好了又壞的輪迴下去，乾脆先把打好的存回家，再上傳，看會不會好用一些。&lt;/p&gt;
+    &lt;p&gt;自評:85分&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20151105221720.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151105221720.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151105221720.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151105221720.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151105221720.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151105221720.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151105221720.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151105221720.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
+    &lt;p&gt;班級:四設計二甲&lt;p&gt;
+    &lt;p&gt;姓名:馮俊翰&lt;p&gt;
+    &lt;p&gt;學號:40323146&lt;/p&gt;	
+&lt;/section&gt;</t>
+<t tx="leo.20151105221720.8">&lt;section&gt;
+    &lt;h1&gt;第六週上課內容&lt;/h1&gt;
+    &lt;p&gt;1.pelican 網誌與 reveal.js 投影片製作, 內容送到 Github pages &lt;p&gt;
+    &lt;p&gt;2.&lt;ahref="What engineers do? 摘要"&gt;&lt;/a&gt;&lt;p&gt;
+    &lt;p&gt;3.Solvespace 基本操作: &lt;ahref="http://solvespace.com/tutorial.pl (簡介)"&gt;&lt;/a&gt;&lt;p&gt;
+    &lt;p&gt;4.Creo Parametric 基本操作: &lt;ahref="https://copy.com/97ZkQ0UqfVUPTxn8"&gt;&lt;/a&gt;&lt;p&gt;
+    &lt;p&gt;5.Pro/Engineer Mechanism: &lt;ahref="https://copy.com/DXQiGkDoe9K8Cz7m (Nutcracker Mechanism)"&gt;&lt;/a&gt;&lt;p&gt;
+   &lt;/section&gt;</t>
+<t tx="leo.20151105221720.9">&lt;section&gt;
+    &lt;h1&gt;心得和自評&lt;/h1&gt;
+    &lt;p&gt;心得:在做投影片時，常常都打好了，一個錯誤，而且又上傳上去，整個又要重來，覺得做這個東西要很小心，或是用近端先檢查一次，在上傳上去，還有用一些加入倉儲的協統者，和之前的上傳檔案差不多，不會太複雜。&lt;/p&gt;
+    &lt;p&gt;自評:75分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
 </tnodes>
 </leo_file>
