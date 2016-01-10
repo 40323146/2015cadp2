@@ -336,7 +336,7 @@
 </v>
 </v>
 </v>
-<v t=".20151029143607.1"><vh>@clean simplest3.html</vh>
+<v t=".20151029143607.1" a="E"><vh>@clean simplest3.html</vh>
 <v t=".20151029143607.2"><vh>檔案說明</vh></v>
 <v t=".20151029143607.3" a="E"><vh>html 標註</vh>
 <v t=".20151029143607.4" a="E"><vh>body 標註</vh>
@@ -603,65 +603,8 @@
 </v>
 </v>
 </v>
-<v t=".20151029134035.1"><vh>Recovered Nodes</vh>
-<v t=".20151029134035.2"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
-<v t=".20151029134035.3"><vh>old:html 標註</vh></v>
-<v t=".20151029134035.4"><vh>new:html 標註</vh></v>
-</v>
-</v>
 </vnodes>
 <tnodes>
-<t tx=".20151029134035.1"></t>
-<t tx=".20151029134035.2">(uncached) amd.20150915211351.1
-Diff...
-  &lt;!doctype html&gt;
-  &lt;html lang="en"&gt;
-  &lt;head&gt;
-  &lt;meta charset="utf-8"&gt;
-  &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-  &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-  	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-  	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-  	&lt;!--[if lt IE 9]&gt;
-  	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-  	&lt;![endif]--&gt;
-  &lt;/head&gt;
-+ &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-+ &lt;/html&gt;
-+ &gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
-  @others
-</t>
-<t tx=".20151029134035.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-&lt;/html&gt;
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
-@others
-</t>
-<t tx=".20151029134035.4">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
 <t tx=".20151029135813.1">@language xml
 @tabwidth -4
 @others
@@ -2895,24 +2838,23 @@ g.es("pelican 執行完畢")</t>
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
-    &lt;p&gt;班級:四設計二甲&lt;p&gt;
-    &lt;p&gt;姓名:馮俊翰&lt;p&gt;
-    &lt;p&gt;學號:40323146&lt;/p&gt;	
-&lt;/section&gt;</t>
-<t tx="leo.20151105221720.8">&lt;section&gt;
-    &lt;h1&gt;第六週上課內容&lt;/h1&gt;
-    &lt;p&gt;1.pelican 網誌與 reveal.js 投影片製作, 內容送到 Github pages &lt;p&gt;
-    &lt;p&gt;2.&lt;ahref="What engineers do? 摘要"&gt;&lt;/a&gt;&lt;p&gt;
-    &lt;p&gt;3.Solvespace 基本操作: &lt;ahref="http://solvespace.com/tutorial.pl (簡介)"&gt;&lt;/a&gt;&lt;p&gt;
-    &lt;p&gt;4.Creo Parametric 基本操作: &lt;ahref="https://copy.com/97ZkQ0UqfVUPTxn8"&gt;&lt;/a&gt;&lt;p&gt;
-    &lt;p&gt;5.Pro/Engineer Mechanism: &lt;ahref="https://copy.com/DXQiGkDoe9K8Cz7m (Nutcracker Mechanism)"&gt;&lt;/a&gt;&lt;p&gt;
-   &lt;/section&gt;</t>
-<t tx="leo.20151105221720.9">&lt;section&gt;
-    &lt;h1&gt;心得和自評&lt;/h1&gt;
-    &lt;p&gt;心得:在做投影片時，常常都打好了，一個錯誤，而且又上傳上去，整個又要重來，覺得做這個東西要很小心，或是用近端先檢查一次，在上傳上去，還有用一些加入倉儲的協統者，和之前的上傳檔案差不多，不會太複雜。&lt;/p&gt;
-    &lt;p&gt;自評:75分&lt;/p&gt;
+    &lt;h2&gt;名字&lt;/h2&gt;
+    &lt;p&gt;馮俊翰&lt;/p&gt;		
 &lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151105221720.8">&lt;section&gt;
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+</t>
+<t tx="leo.20151105221720.9">&lt;/section&gt;
 				
 </t>
 </tnodes>
